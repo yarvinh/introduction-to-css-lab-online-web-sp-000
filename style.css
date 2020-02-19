@@ -8,7 +8,8 @@ body {
 div {
   /* Your code here! */
   width: 700px;
-  
+  margin: outo;
+
 }
 
 /* ID selector to select the element with id 'main-header' */
